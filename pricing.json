@@ -1,0 +1,123 @@
+[
+ {
+  "title": "STPi Done-For-You Placement",
+  "id": "prod_ZqlnkKABqd48o",
+  "plans": [
+   {
+    "price": 49.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_3OgIrt1vQfQPa"
+   },
+   {
+    "price": 850.0,
+    "cur": "ZAR",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_Qa2YicHi2PcwZ"
+   }
+  ]
+ },
+ {
+  "title": "STPi CV Setup Pack",
+  "id": "prod_pxClgqklsOstp",
+  "plans": [
+   {
+    "price": 19.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_JMHw7NjK4Ej7d"
+   },
+   {
+    "price": 350.0,
+    "cur": "ZAR",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_ZQpWCRZa0WEoM"
+   }
+  ]
+ },
+ {
+  "title": "STPi Sovereign",
+  "id": "prod_YinMTkuhgU2Xv",
+  "plans": [
+   {
+    "price": 920.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_k9ds6gGmKhNFK"
+   },
+   {
+    "price": 8280.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_BIIgC7Z66Th7K"
+   },
+   {
+    "price": 15000.0,
+    "cur": "ZAR",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_y9Ps7ZW6Uxxmf"
+   }
+  ]
+ },
+ {
+  "title": "STPi Studio",
+  "id": "prod_S3yLSyR1X98sE",
+  "plans": [
+   {
+    "price": 613.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_7UqUvmcLQD6SV"
+   },
+   {
+    "price": 5517.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_y0JlA44fiddJ3"
+   },
+   {
+    "price": 9999.0,
+    "cur": "ZAR",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_gGS7NbF9lg3Qd"
+   }
+  ]
+ },
+ {
+  "title": "STPi Solo",
+  "id": "prod_lh6Mq2wTIHqog",
+  "plans": [
+   {
+    "price": 306.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_SOdAd8D24IkPi"
+   },
+   {
+    "price": 2754.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_xkopebIhQiA6A"
+   },
+   {
+    "price": 4999.0,
+    "cur": "ZAR",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_W2emQBgLLRomz"
+   }
+  ]
+ }
+]
