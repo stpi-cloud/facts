@@ -4,7 +4,7 @@
 
 STPi is an AI job-search and placement system for recruiters, career coaches and boutique agencies in Africa: it finds the vacancies, drafts the application in the advert's own language, and sends from the candidate's own mailbox once a person approves it.
 
-It is built and run by Jacaranda Labs in Harare, Zimbabwe. Live: https://stpi.whop.site
+It is built and run by Coldcode SI Labs in Harare, Zimbabwe. Live: https://stpi.whop.site
 
 ## The short answer
 
@@ -93,6 +93,6 @@ STPi is installable software: pip install the wheel and run it on your own machi
 
 ## Where this comes from
 
-Figures and prices are generated from STPi's live billing table and published at https://stpi.jacaranda-labs-v2.workers.dev/facts.json, which is the authoritative copy.
+Figures and prices are generated from STPi's live billing table and published at https://stpi-v2.stpi-cloud.workers.dev/facts.json, which is the authoritative copy.
 
-_Jacaranda Labs, Harare, Zimbabwe._
+_Coldcode SI Labs, Harare, Zimbabwe._
