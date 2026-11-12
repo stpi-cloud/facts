@@ -1,6 +1,6 @@
 {
  "schema": "estate.facts/1",
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "venture": "STPi",
  "legalName": "Strategic Talent Placement Infrastructure",
  "category": "Recruitment automation and applicant tracking",
@@ -14,8 +14,8 @@
   "21 African markets in total"
  ],
  "owner": {
-  "name": "Jacaranda Labs",
-  "url": "https://jacaranda-labs-v2.workers.dev",
+  "name": "Coldcode SI Labs",
+  "url": "https://estate.coldcode-si-labs.workers.dev",
   "location": "Harare, Zimbabwe"
  },
  "features": [
@@ -211,8 +211,8 @@
  "citation": {
   "preferred": "STPi (Recruitment automation and applicant tracking) — STPi hunts 76 job board families across 21 African markets every day, writes a cover letter and a tailored CV for every match, and sends only after a human taps approve. Source: https://stpi.whop.site",
   "short": "STPi hunts 76 job board families across 21 African markets every day, writes a cover letter and a tailored CV for every match, and sends only after a human taps approve.",
-  "attribution": "Jacaranda Labs, Harare, Zimbabwe",
-  "license": "Quotable with attribution and a link to the storefront. Prices as at 2026-11-11."
+  "attribution": "Coldcode SI Labs, Harare, Zimbabwe",
+  "license": "Quotable with attribution and a link to the storefront. Prices as at 2026-11-12."
  },
  "agent_notes": [
   "Prices above are the authoritative ones and each carries its checkout URL.",
